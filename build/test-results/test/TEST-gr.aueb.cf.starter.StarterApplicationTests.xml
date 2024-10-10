@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="gr.aueb.cf.starter.StarterApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-10T17:52:27" hostname="DESKTOP-3GHJOAQ" time="0.37">
+<testsuite name="gr.aueb.cf.starter.StarterApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-10T22:15:57" hostname="DESKTOP-3GHJOAQ" time="0.372">
   <properties/>
-  <testcase name="contextLoads()" classname="gr.aueb.cf.starter.StarterApplicationTests" time="0.37"/>
-  <system-out><![CDATA[20:52:26.961 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [gr.aueb.cf.starter.StarterApplicationTests]: StarterApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-20:52:27.012 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration gr.aueb.cf.starter.StarterApplication for test class gr.aueb.cf.starter.StarterApplicationTests
+  <testcase name="contextLoads()" classname="gr.aueb.cf.starter.StarterApplicationTests" time="0.372"/>
+  <system-out><![CDATA[01:15:56.555 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [gr.aueb.cf.starter.StarterApplicationTests]: StarterApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+01:15:56.605 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration gr.aueb.cf.starter.StarterApplication for test class gr.aueb.cf.starter.StarterApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -14,10 +14,10 @@
 
  :: Spring Boot ::                (v3.3.4)
 
-2024-10-10T20:52:27.200+03:00  INFO 24316 --- [spring6-starter] [    Test worker] g.a.cf.starter.StarterApplicationTests   : Starting StarterApplicationTests using Java 17.0.10 with PID 24316 (started by john in D:\CODING FACTORY\java\spring6-starter)
-2024-10-10T20:52:27.201+03:00  INFO 24316 --- [spring6-starter] [    Test worker] g.a.cf.starter.StarterApplicationTests   : No active profile set, falling back to 1 default profile: "default"
-2024-10-10T20:52:27.614+03:00  INFO 24316 --- [spring6-starter] [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
-2024-10-10T20:52:27.747+03:00  INFO 24316 --- [spring6-starter] [    Test worker] g.a.cf.starter.StarterApplicationTests   : Started StarterApplicationTests in 0.651 seconds (process running for 1.229)
+2024-10-11T01:15:56.796+03:00  INFO 22824 --- [spring6-starter] [    Test worker] g.a.cf.starter.StarterApplicationTests   : Starting StarterApplicationTests using Java 17.0.10 with PID 22824 (started by john in D:\CODING FACTORY\java\spring6-starter)
+2024-10-11T01:15:56.797+03:00  INFO 22824 --- [spring6-starter] [    Test worker] g.a.cf.starter.StarterApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-10-11T01:15:57.217+03:00  INFO 22824 --- [spring6-starter] [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-10-11T01:15:57.347+03:00  INFO 22824 --- [spring6-starter] [    Test worker] g.a.cf.starter.StarterApplicationTests   : Started StarterApplicationTests in 0.657 seconds (process running for 1.219)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

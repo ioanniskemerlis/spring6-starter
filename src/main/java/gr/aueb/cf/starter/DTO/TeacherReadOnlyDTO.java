@@ -11,6 +11,7 @@ import lombok.Setter;
 @Setter
 public class TeacherReadOnlyDTO {
     private Long id;
-    private String firstname;
-    private String lastname;
+    public String firstname;
+    public String lastname;
+
 }
